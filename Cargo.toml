@@ -1,0 +1,9 @@
+[package]
+name = "embedded-storage-std-mock"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+embedded-storage = "0.3.1"
+thiserror = "2.0.17"
